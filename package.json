@@ -23,5 +23,8 @@
   "homepage": "https://github.com/marcysko/deep-thoughts#readme",
   "devDependencies": {
     "concurrently": "^6.2.0"
+  },
+  "dependencies": {
+    "if-env": "^1.0.4"
   }
 }
